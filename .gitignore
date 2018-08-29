@@ -2,4 +2,4 @@ target/*
 .ensime_cache
 .class
 *.log
-project/target
+project/target/*
